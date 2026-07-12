@@ -1,4 +1,4 @@
-# ✦ Claude Mythos 5 AI Free
+# Claude Mythos 5 AI Free
 
 **Claude Mythos 5 AI Free** is a clean and powerful native desktop application that provides free access to **Claude Mythos 5** — Anthropic’s advanced Mythos-class AI model. Experience superior reasoning, coding, creative writing, and multimodal intelligence in a smooth desktop environment.
 
